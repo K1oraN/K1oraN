@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello, I'm Lucas Alexandre! I'm a computer science student! 👨🏾‍💻
 
-<!--
-**K1oraN/K1oraN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portifolio]()]()
+[![Lattes]()]()
+[![Instagram]()]()
+[![Linkedin]()]()
+[![Blog]()]()
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1oraN&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊 𝚚𝚞𝚎 𝚞𝚜𝚘 𝚗𝚘 𝚍𝚒𝚊 𝚊 𝚍𝚒𝚊 𝚍𝚎 𝚎𝚜𝚝𝚞𝚍𝚘𝚜 / 𝚙𝚛𝚘𝚓𝚎𝚝𝚘𝚜
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="A" scr=""/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="B" scr=""/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="C" scr=""/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="D" scr=""/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="E" scr=""/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="F" scr=""/>
+</div><bre/>
+
+### MAIS STATS 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1oraN&hide_progress=false)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K1oraN)](https://github.com/anuraghazra/github-readme-stats)
