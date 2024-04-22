@@ -22,10 +22,10 @@
 
 ### 𝙲𝙾𝙽𝚃𝙰𝚃𝙾𝚂 & 𝙲𝙾𝙽𝙴𝚇𝙾𝙴𝚂
 
-[![Gmail]()]()
-[![Linkedin]()]()
-[![Instagram]()]()
-[![Discord]()]()
+[![Gmail]()](lucasmister12@gmail.com)
+[![Linkedin]()](https://www.linkedin.com/in/dev-luc4s/)
+[![Instagram]()](https://www.instagram.com/programmer_luke/)
+[![Discord]()](https://discord.gg/rQB97pdvv5)
 
 ### 𝚂𝚃𝙰𝚃𝚂 
 
