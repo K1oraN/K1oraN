@@ -1,4 +1,4 @@
-### Hello, my name is Lucas Alexandre 👋
+### 👋 Ola, meu nome e Lucas Alexandre e sou Desenvolvedor Back-End 👨🏽‍💻
 #
 
 #
