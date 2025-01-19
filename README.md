@@ -1,6 +1,10 @@
 ### 👋 Olá, meu nome é Lucas Alexandre e sou Desenvolvedor Back-End. 👨🏽‍💻
 #
-
+<div align="center">
+  <p style="background-color: black; color: white; padding: 10px; border-radius: 10px; display: inline-block; font-family: Arial, sans-serif;">
+    Desenvolvedor Web Developer
+  </p>
+</div>
 #
 
 ### My Skills 🛠️
