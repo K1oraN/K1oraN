@@ -1,15 +1,9 @@
-### 👋 Olá, meu nome é Lucas Alexandre e sou Desenvolvedor Back-End. 👨🏽‍💻
-#
-<div align="center">
-  <p style="background-color: black; color: white; padding: 10px; border-radius: 10px; display: inline-block; font-family: Arial, sans-serif;">
-    Desenvolvedor Web Developer
-  </p>
-</div>
-#
+**`Desenvolvedor Web Developer`**
 
-### My Skills 🛠️
 
 #
+
+<p align="center"><b>👨🏽‍💻MINHAS HARDSKILLS👨🏽‍💻</b></p>
 
 ###  Front-End / Back-End
 <img align="center" alt="" src="" /> <img align="center" alt="" src="" /> <img align="center" alt="" src="" /> <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,8 +16,7 @@
 #
 
 ### Databases
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1oraN&show_icons=true&theme=dark&hide=prs,issues,contribs&custom_title=My++GitHub++Stats++🖥️) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1oraN&hide_progress=true&theme=dark)
 #
