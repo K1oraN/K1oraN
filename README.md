@@ -1,5 +1,5 @@
 
-**`Desenvolvedor Web Developer`**
+**`Back-End Developer`**
 
 Olá, pessoal! Meu nome é Lucas Alexandre e sou um Desenvolvedor Back-End, e desde 2023 venho aprofundando meus conhecimentos na área da programação, focando principalmente na linguagem Python juntamente com Django. Além de Python, também tenho um conhecimento de Java, Spring e PostreSQL. 
 
