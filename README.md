@@ -19,11 +19,11 @@ Meu foco é trabalhar como Desenvolvedor Back-End assim desenvolvendo sistemas r
 ### Databases
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1oraN&show_icons=true&theme=dark&hide=,issues,contribs&custom_title=My++GitHub++Stats++🖥️)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1oraN&show_icons=true&theme=dark&hide=,issues&custom_title=My++GitHub++Stats++🖥️)
 #
 ### Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-luc4s/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/K1oraN)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c8kYHSnKeX) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](.)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
