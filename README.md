@@ -27,3 +27,4 @@ Meu foco é trabalhar como Desenvolvedor Back-End assim desenvolvendo sistemas r
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/K1oraN)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c8kYHSnKeX) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d686fbf4-97df-4002-a0e5-da9d49e03b1f/deploy-status)](https://app.netlify.com/projects/k1oran/deploys)
